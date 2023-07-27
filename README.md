@@ -1,12 +1,6 @@
 # calculator
 
-A new Flutter simple calculator application using dart math expression solver. The tutorial is available in English in Hindi/Urdu.
-
-Simple Calculator Flutter Tutorial English: 
-https://www.youtube.com/watch?v=l4bLPfS1uik
-
-Simple Calculator Flutter Tutorial Hindi/Urdu:
-https://www.youtube.com/watch?v=d06EFQGJKP0
+A new Flutter simple calculator application using dart math expression solver. 
 
 
 ## Getting Started
